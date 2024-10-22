@@ -1,0 +1,8 @@
+.new_style{
+    width: 200px;
+    height: 50px;
+    background-color: cornsilk;
+    border:1px solid grey;
+    border-radius: 10px;
+    margin: 0 auto;
+}
